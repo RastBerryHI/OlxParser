@@ -1,0 +1,11 @@
+C:\Users\musae\source\repos\OLXparser\OLXparser\obj\Debug\OLXparser.csprojAssemblyReference.cache
+C:\Users\musae\source\repos\OLXparser\OLXparser\obj\Debug\OLXparser.csproj.CoreCompileInputs.cache
+C:\Users\musae\source\repos\OLXparser\OLXparser\bin\Debug\OLXparser.exe.config
+C:\Users\musae\source\repos\OLXparser\OLXparser\bin\Debug\OLXparser.exe
+C:\Users\musae\source\repos\OLXparser\OLXparser\bin\Debug\OLXparser.pdb
+C:\Users\musae\source\repos\OLXparser\OLXparser\bin\Debug\HtmlAgilityPack.dll
+C:\Users\musae\source\repos\OLXparser\OLXparser\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\musae\source\repos\OLXparser\OLXparser\bin\Debug\HtmlAgilityPack.xml
+C:\Users\musae\source\repos\OLXparser\OLXparser\obj\Debug\OLXparser.csproj.CopyComplete
+C:\Users\musae\source\repos\OLXparser\OLXparser\obj\Debug\OLXparser.exe
+C:\Users\musae\source\repos\OLXparser\OLXparser\obj\Debug\OLXparser.pdb
